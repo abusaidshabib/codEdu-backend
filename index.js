@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 const topics = require('./data/topics.json');
+const details = require('./data/details.json');
 
 app.get('/', (req, res)=>{
     res.send('ReactData API Running');
