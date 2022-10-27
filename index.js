@@ -15,7 +15,12 @@ app.get('/topics', (req, res) =>{
     res.send(topics)
 })
 
-
+app.get('/details/:id', (req,res)=>{
+    const id = req.params.id;
+    const seleteDetail = details.find( d => d.id === id);
+    res.send(seleteDetail);
+    
+})
 
 app.listen(port, () => {
     console.log('CodEdu server running');
