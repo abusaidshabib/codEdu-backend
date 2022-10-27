@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "topic_Name": "Setup Your Environment"
+    },
+    {
+        "id": "2",
+        "topic_Name": "Start Your First Program"
+    },
+    {
+        "id": "3",
+        "topic_Name": "Knowing About Variables"
+    },
+    {
+        "id": "4",
+        "topic_Name": "Datatypes in JavaScript"
+    },
+    {
+        "id": "5",
+        "topic_Name": "Useful Operators"
+    },
+    {
+        "id": "6",
+        "topic_Name": "How to add Comments"
+    }
+]
