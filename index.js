@@ -15,6 +15,10 @@ app.get('/topics', (req, res) =>{
     res.send(topics)
 })
 
+app.get('/details', (req, res) =>{
+    res.send(details);
+})
+
 app.get('/details/:id', (req,res)=>{
     const id = req.params.id;
     const seleteDetail = details.find( d => d.id === id);

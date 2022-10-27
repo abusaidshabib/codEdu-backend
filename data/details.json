@@ -1,44 +1,134 @@
-[{
+[
+  {
+    "course_name": "Python",
     "id": "1",
-    "title": "How to Get Started With Python?",
-    "title-img": "/data/images/python.jpeg",
-    "details": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-    "author": "Wreight",
-    "image": "https://robohash.org/nequeomnisnecessitatibus.png?size=50x50&set=set1",
-    "view": 417
-  }, {
+    "title": "Start learn python and create your place",
+    "title_img": "https://miro.medium.com/max/750/1*qIc8c-GslXx5yIiudcvU_A.jpeg",
+    "details": "Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields. Fortunately for beginners, Python has a simple, easy-to-use syntax. This makes Python a great language to learn for beginners. Our Python tutorials will cover all the fundamental concepts of Python. And by the end, you will be comfortable creating projects in Python Python is a cross-platform programming language, which means that it can run on multiple platforms like Windows, macOS, Linux, and has even been ported to the Java and .NET virtual machines. It is free and open-source.Even though most of today's Linux and Mac have Python pre-installed in it, the version might be out-of-date. So, it is always a good idea to install the most current version.",
+    "author": "Aylmer Prando",
+    "auth_img": "https://robohash.org/utofficiaqui.png?size=50x50&set=set1",
+    "view": 605,
+    "rating": 3.65
+  },
+  {
+    "course_name": "JavaScript",
     "id": "2",
-    "title": "posuere cubilia curae duis",
-    "details": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
-    "author": "Full",
-    "image": "https://robohash.org/consequaturfugaqui.png?size=50x50&set=set1",
-    "view": 568
-  }, {
+    "title": "The Modern JavaScript Tutorial",
+    "title_img": "https://miro.medium.com/max/800/1*wf5X21iwgrRR1mnWuPp7WA.png",
+    "details": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior. Contrary to popular misconception, JavaScript is not. In a nutshell, JavaScript is a dynamic scripting language supporting prototype based object construction. The basic syntax is intentionally similar to both Java and C++ to reduce the number of new concepts required to learn the language. Language constructs, such as if statements, for and while loops, and switch and try ... catch blocks function the same as in these languages (or nearly so).",
+    "author": "Erastus Clayill",
+    "auth_img": "https://robohash.org/placeatducimusdolore.png?size=50x50&set=set1",
+    "view": 740,
+    "rating": 3.35
+  },
+  {
+    "course_name": "Java",
     "id": "3",
-    "title": "non velit donec diam neque",
-    "details": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
-    "author": "Stollenbecker",
-    "image": "https://robohash.org/eaquenobisperspiciatis.png?size=50x50&set=set1",
-    "view": 461
-  }, {
+    "title": "Oracle Java Technologies",
+    "title_img": "https://cdn.codegym.cc/images/article/ddb7fe1b-d163-4e5a-8ca8-415c56dbca59/800.jpeg",
+    "details": "Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages.Our Java tutorial will guide you to learn Java one step at a time.",
+    "author": "Gino Chesman",
+    "auth_img": "https://robohash.org/numquamestest.png?size=50x50&set=set1",
+    "view": 320,
+    "rating": 4.07
+  },
+  {
+    "course_name": "C++",
     "id": "4",
-    "title": "augue a suscipit",
-    "details": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
-    "author": "Baldacco",
-    "image": "https://robohash.org/temporequiacorporis.png?size=50x50&set=set1",
-    "view": 432
-  }, {
+    "title": "Basic Concepts of C++ Programming Language",
+    "title_img": "https://w10.naukri.com/mailers/2021/naukri-learning/dec/17dec/What-is-Cplusplus.jpg",
+    "details": "C++ is an object-oriented programming (OOP) language that is viewed by many as the best language for creating large-scale applications. C++ is a superset of the C language.A related programming language, Java, is based on C++ but optimized for the distribution of program objects in a network such as the Internet. Java is somewhat simpler and easier to learn than C++ and has characteristics that give it other advantages over C++. However, both languages require a considerable amount of study.C++ is an object-oriented programming (OOP) language that is viewed by many as the best language for creating large-scale applications. C++ is a superset of the C language.A related programming language, Java, is based on C++ but optimized for the distribution of program objects in a network such as the Internet. Java is somewhat simpler and easier to learn than C++ and has characteristics that give it other advantages over C++. However, both languages require a considerable amount of study.",
+    "author": "Rodney Graysmark",
+    "auth_img": "https://robohash.org/sedconsequaturquia.png?size=50x50&set=set1",
+    "view": 726,
+    "rating": 4.95
+  },
+  {
+    "course_name": "C",
     "id": "5",
-    "title": "sit amet eros suspendisse accumsan",
-    "details": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
-    "author": "Danshin",
-    "image": "https://robohash.org/voluptatemquiaamet.png?size=50x50&set=set1",
-    "view": 781
-  }, {
+    "title": "C programming language Introduction",
+    "title_img": "https://maharatech.gov.eg/pluginfile.php/263589/course/overviewfiles/c.jpg",
+    "details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.C programming language is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain.",
+    "author": "Raviv Reddecliffe",
+    "auth_img": "https://robohash.org/autvoluptatemsaepe.png?size=50x50&set=set1",
+    "view": 427,
+    "rating": 3.2
+  },
+  {
+    "course_name": "C#",
     "id": "6",
-    "title": "iaculis congue vivamus metus arcu",
-    "details": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-    "author": "Bordis",
-    "image": "https://robohash.org/totammolestiassunt.png?size=50x50&set=set1",
-    "view": 789
-  }]
+    "title": "Everything you need to know about C#",
+    "title_img": "https://stackify.com/wp-content/uploads/2020/09/What-is-C-used-for.png",
+    "details": "C# is a modern, general-purpose programming language that can be used to perform a wide range of tasks and objectives that span over a variety of professions. C# is primarily used on the Windows .NET framework, although it can be applied to an open source platform. This highly versatile programming language is an object-oriented programming language (OOP)—which isn’t very common—and fairly new to the game, yet already a reliable crowd pleaser.When compared to long-standing languages like Python and PHP, C# is a young addition to the programming family at nearly twenty years old. The language was developed in the year 2000 by Microsoft’s Anders Hejlsberg, a Danish software engineer with a history for popular creations. Anders has taken part in the creation of a handful of dependable programming tools and languages, including Microsoft’s TypeScript and Delphi, a suitable replacement for Turbo Pascal.As of February 2019, C# ranked #4 on the PYPL PopularitY of Programming Language Index, right behind Java and JavaScript. The data used to compile this index is based on how often people search for a tutorial on different programming languages in Google.In recent years, C# has also made a consistent appearance in the top ten programming languages in the TIOBE Index, a report that pulls its data from a compilation of popular search engines including Google, YouTube and Bing.",
+    "author": "Sheffy Crambie",
+    "auth_img": "https://robohash.org/nemonecessitatibusnon.png?size=50x50&set=set1",
+    "view": 373,
+    "rating": 4.99
+  },
+  {
+    "course_name": "Swift",
+    "id": "7",
+    "title": "Pros and Cons of Swift Programming Language",
+    "title_img": "https://miro.medium.com/max/750/1*OgeU8HPo8TFF1cZQ-4XjJw.jpeg",
+    "details": "Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community. First released in 2014,[10] Swift was developed as a replacement for Apple's earlier programming language Objective-C, as Objective-C had been largely unchanged since the early 1980s and lacked modern language features. Swift works with Apple's Cocoa and Cocoa Touch frameworks, and a key aspect of Swift's design was the ability to interoperate with the huge body of existing Objective-C code developed for Apple products over the previous decades. It was built with the open source LLVM compiler framework and has been included in Xcode since version 6, released in 2014. On Apple platforms,[11] it uses the Objective-C runtime library, which allows C, Objective-C, C++ and Swift code to run within one program.Apple intended Swift to support many core concepts associated with Objective-C, notably dynamic dispatch, widespread late binding, extensible programming and similar features, but in a safer way, making it easier to catch software bugs; Swift has features addressing some common programming errors like null pointer dereferencing and provides syntactic sugar to help avoid the pyramid of doom. Swift supports the concept of protocol extensibility, an extensibility system that can be applied to types, structs and classes, which Apple promotes as a real change in programming paradigms they term protocol-oriented programming (similar to traits).",
+    "author": "Ford Autrie",
+    "auth_img": "https://robohash.org/repudiandaeculparerum.png?size=50x50&set=set1",
+    "view": 648,
+    "rating": 4.04
+  },
+  {
+    "course_name": "Kotlin",
+    "id": "8",
+    "title": "Kotlin and Android",
+    "title_img": "https://miro.medium.com/max/1200/1*8YPjY2xhNwQylBBs8dYB0g.png",
+    "details": "Kotlin is a programming language introduced by JetBrains in 2011, the official designer of the most intelligent Java IDE, named Intellij IDEA. Kotlin is free, has been free and will remain free. It is developed under the Apache 2.0 license and the source code is available on GitHub.This is a strongly statically typed general-purpose programming language that runs on JVM. In 2017, Google announced Kotlin is an official language for android development. Kotlin is an open source programming language that combines object-oriented programming and functional features into a unique platform. The content is divided into various chapters that contain related topics with simple and useful examples.Currently, Kotlin mainly targets the Java Virtual Machine (JVM), but also compiles to JavaScript. Kotlin is influenced by other popular programming languages such as Java, C#, JavaScript, Scala and Groovy. The syntax of Kotlin may not be exactly similar to Java Programming Language, however, internally Kotlin is reliant on the existing Java Class library to produce wonderful results for the programmers. Kotlin provides interoperability, code safety, and clarity to the developers around the world.",
+    "author": "Gerda Withams",
+    "auth_img": "https://robohash.org/voluptasinasperiores.png?size=50x50&set=set1",
+    "view": 589,
+    "rating": 3.99
+  },
+  {
+    "course_name": "Go",
+    "id": "9",
+    "title": "An Into to Google's Go programming language",
+    "title_img": "https://www.softwebsolutions.com/wp-content/uploads/2020/10/golang-Programing.jpg",
+    "details": "You might hear the language called both Go and Golang, which might be confusing. I once thought they were names for different languages. But Golang is just another name for Go – and Go remains the official name.Golang came from the domain name of the Go official website, golang.org. Which is actually really helpful, because “Golang” is much more searchable than Go on Google. So it makes life a little easier for those who might be looking for information on the programming language.The Go programming language was borne because things were getting much more complex in the codebases within Google.The Go programming language was borne because things were getting much more complex in the codebases within Google.",
+    "author": "Elianore Rosengarten",
+    "auth_img": "https://robohash.org/consequaturrerumrerum.png?size=50x50&set=set1",
+    "view": 412,
+    "rating": 3.43
+  },
+  {
+    "course_name": "DataStructure & Algorithms",
+    "id": "10",
+    "title": "Data Structures and Algorithms Specialization",
+    "title_img": "https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2019/11/Banner-Blog-1A-1.jpg",
+    "details": "Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way. Data Structures is about rendering data elements in terms of some relationship, for better organization and storage. For example, we have some data which has, player's name Virat and age 26. Here Virat is of String data type and 26 is of integer data type.We can organize this data as a record like Player record, which will have both player's name and age in it. Now we can collect and store player's records in a file or database as a data structure. For example: Dhoni 30, Gambhir 31, Sehwag 33 If you are aware of Object Oriented programming concepts, then a class also does the same thing, it collects different type of data under one single entity. The only difference being, data structures provides for techniques to access and manipulate data efficiently.In simple language, Data Structures are structures programmed to store ordered data, so that various operations can be performed on it easily. It represents the knowledge of data to be organized in memory. It should be designed and implemented in such a way that it reduces the complexity and increases the efficiency.",
+    "author": "Hew Dungay",
+    "auth_img": "https://robohash.org/quidemsaepeharum.png?size=50x50&set=set1",
+    "view": 511,
+    "rating": 3.55
+  },
+  {
+    "course_name": "SQL",
+    "id": "11",
+    "title": "Learn SQL Basics, SQL Full form & How to use",
+    "title_img": "https://www.dataquest.io/wp-content/uploads/2021/11/why-sql-consumes-so-much-memory-header.webp",
+    "details": "SQL is the standard language for dealing with Relational Databases. SQL can be used to insert, search, update, and delete database records. SQL can do lots of other operations, including optimizing and maintenance of databases.SQL stands for Structured Query language, pronounced as S-Q-L or sometimes as “See-Quel”… Relational databases like MySQL Database, Oracle, MS SQL Server, Sybase, etc. use ANSI SQL.SQL syntaxes used in different databases are almost similar, though few RDBMS use a few different commands and even proprietary SQL syntaxes.SQL syntaxes used in different databases are almost similar, though few RDBMS use a few different commands and even proprietary SQL syntaxes.",
+    "author": "Bryna Gisborne",
+    "auth_img": "https://robohash.org/eumevenietexplicabo.png?size=50x50&set=set1",
+    "view": 399,
+    "rating": 3.03
+  },
+  {
+    "course_name": "React",
+    "id": "12",
+    "title": "All about React app development",
+    "title_img": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777655/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png",
+    "details": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.Declarative views make your code more predictable and easier to debug.Build encapsulated components that manage their own state, then compose them to make complex UIs.Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.We don’t make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.React can also render on the server using Node and power mobile apps using React Native.",
+    "author": "Loralee Tellenbrook",
+    "auth_img": "https://robohash.org/laudantiumeligenditotam.png?size=50x50&set=set1",
+    "view": 785,
+    "rating": 4.86
+  }
+]
